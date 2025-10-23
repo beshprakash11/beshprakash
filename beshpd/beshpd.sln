@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beshpd", "beshpd.csproj", "{06FB2E81-6212-40AD-A633-86780E146CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06FB2E81-6212-40AD-A633-86780E146CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FB2E81-6212-40AD-A633-86780E146CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FB2E81-6212-40AD-A633-86780E146CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FB2E81-6212-40AD-A633-86780E146CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
